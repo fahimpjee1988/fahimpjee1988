@@ -2,7 +2,7 @@
 - 👀 I’m interested in software Engineering
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on with Software Companies
-- 📫 How to reach me --->fahim_rasoul@hotmail.com
+- 📫 How to reach me --->adjmal.ra@gmail.com
 
 <!---
 fahimpjee1988/fahimpjee1988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
